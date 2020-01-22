@@ -1,5 +1,7 @@
 "use strict";
 
+require("v8-compile-cache");
+
 const rules = require("./rules");
 const { createPlugin } = require("stylelint");
 const { namespace } = require("./utils");

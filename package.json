@@ -11,7 +11,8 @@
     "postcss-media-query-parser": "^0.2.3",
     "postcss-resolve-nested-selector": "^0.1.1",
     "postcss-selector-parser": "^6.0.2",
-    "postcss-value-parser": "^4.0.2"
+    "postcss-value-parser": "^4.0.2",
+    "v8-compile-cache": "^2.1.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
